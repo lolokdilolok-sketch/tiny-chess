@@ -1,5 +1,9 @@
 # Tiny Chess engine (make.fun tiny-chess-01)
 
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/lolokdilolok-sketch/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/lolokdilolok-sketch/tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 A 4 KB Python chess engine: 0x88 board, PVS + aspiration windows +
 quiescence, transposition table, tapered king/queen PSTs, bishop-pair
 and passed-pawn eval, fixed 100,000 nodes per move (deterministic,
